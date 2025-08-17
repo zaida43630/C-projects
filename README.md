@@ -25,16 +25,16 @@ This is a simple **Snake Game** implemented in **C++** using the console. The sn
 - x → Exit Game
 
 **📷 Game Preview:**
-#### # # # # # # # # # # # # # # # # # # #
-####                                     #
-####                                     #
-####              O                      #
-####                                     #
-####                    F                #
-####                                     #
-#### # # # # # # # # # # # # # # # # # # #
+'#' # # # # # # # # # # # # # # # # # # #
+'#'                                     #
+'#'                                     #
+'#'              O                      #
+'#'                                     #
+'#'                    F                #
+'#'                                     #
+'#' # # # # # # # # # # # # # # # # # # #
 
--`#` → Wall
+-'#' → Wall
 - O → Snake Head
 - o → Snake Tail
 - F → Fruit
