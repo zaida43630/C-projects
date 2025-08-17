@@ -77,7 +77,7 @@ The program asks a series of math-based pattern questions where the user must fi
 It validates user input and continues prompting until the correct answer is given.
 
 **Features:**  
--8 math-based quiz questions.
+- 8 math-based quiz questions.
 - Questions use addition, subtraction, multiplication, division, powers, and patterns.
 - Shows solved examples for each pattern before asking the user.
 - Keeps asking until the correct answer is entered.
