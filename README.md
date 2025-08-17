@@ -24,21 +24,6 @@ This is a simple **Snake Game** implemented in **C++** using the console. The sn
 - z → Move Down
 - x → Exit Game
 
-**📷 Game Preview:**
-\# # # # # # # # # # # # # # # # # # # #
-\#                                     #
-\#                                     #
-\#              O                      #
-\#                                     #
-\#                    F                #
-\#                                     #
-\# # # # # # # # # # # # # # # # # # # #
-
--/# → Wall
-- O → Snake Head
-- o → Snake Tail
-- F → Fruit
-
 ---
 
 ### 2️⃣ Tank Shooter 🔫  
@@ -55,22 +40,6 @@ This is a simple **Tank Shooter** Game implemented in **C++** using the console.
 4. If the player tank is hit by **enemy bullets 3 times**, the game is over.
 5. If all **5 enemy tanks are destroyed**, the player wins.
 6. After the game ends, press **Y** or **y** to play again.
-
-**📷 Game Preview:**
-#### # # # # # # # # # # # # # # # # # # #
-####   o o       o o       o o       o o #
-####    o         o         o         o  #
-####                                     #
-####                                     #
-####                                     #
-####                 o                   #
-####               o   o                 #
-####                                     #
-#### # # # # # # # # # # # # # # # # # # #
-
-- `#` → Wall
-- o o + o → Tank (player or enemy)
-- o → Bullet  
 
 ---
 
