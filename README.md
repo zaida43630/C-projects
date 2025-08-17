@@ -25,16 +25,16 @@ This is a simple **Snake Game** implemented in **C++** using the console. The sn
 - x → Exit Game
 
 **📷 Game Preview:**
-# # # # # # # # # # # # # # # # # # # #
-#                                     #
-#                                     #
-#              O                      #
-#                                     #
-#                    F                #
-#                                     #
-# # # # # # # # # # # # # # # # # # # #
+#### # # # # # # # # # # # # # # # # # # #
+####                                     #
+####                                     #
+####              O                      #
+####                                     #
+####                    F                #
+####                                     #
+#### # # # # # # # # # # # # # # # # # # #
 
-- # → Wall
+-`#` → Wall
 - O → Snake Head
 - o → Snake Tail
 - F → Fruit
@@ -57,18 +57,18 @@ This is a simple **Tank Shooter** Game implemented in **C++** using the console.
 6. After the game ends, press **Y** or **y** to play again.
 
 **📷 Game Preview:**
-# # # # # # # # # # # # # # # # # # # #
-#   o o       o o       o o       o o #
-#    o         o         o         o  #
-#                                     #
-#                                     #
-#                                     #
-#                 o                   #
-#               o   o                 #
-#                                     #
-# # # # # # # # # # # # # # # # # # # #
+#### # # # # # # # # # # # # # # # # # # #
+####   o o       o o       o o       o o #
+####    o         o         o         o  #
+####                                     #
+####                                     #
+####                                     #
+####                 o                   #
+####               o   o                 #
+####                                     #
+#### # # # # # # # # # # # # # # # # # # #
 
-- # → Wall
+- `#` → Wall
 - o o + o → Tank (player or enemy)
 - o → Bullet  
 
